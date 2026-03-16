@@ -27,6 +27,9 @@ Bank.sln
 3. Укажите файл `Bank.sln`
 4. В меню **Тест → Запустить все тесты** (или `Ctrl+R, A`)
 
+<img width="641" height="298" alt="image" src="https://github.com/user-attachments/assets/9c11829e-c6ad-4471-9441-a327f44b687e" />
+Результат работы программы.
+
 ---
 
 ## Класс BankAccount — описание методов
@@ -66,6 +69,9 @@ public void Debit(double amount) { ... }
 | 8 | `CreditThenDebit_ResultsInCorrectBalance` | Последовательность Credit(5.77) → Debit(11.22) | Баланс = 6.54 ✅ |
 
 ---
+
+<img width="872" height="377" alt="image" src="https://github.com/user-attachments/assets/99f647a5-04f1-47e6-b08a-2bb9baba1a4f" />
+Результаты тестов.
 
 ## Обнаруженная и исправленная ошибка
 
